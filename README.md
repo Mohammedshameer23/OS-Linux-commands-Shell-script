@@ -23,34 +23,6 @@ Testing the commands for the desired output.
 
 # COMMANDS:
 ### Create the following files file1, file2 as follows:
-cat > file1
-```
-chanchal singhvi
-c.k. shukla
-s.n. dasgupta
-sumit chakrobarty
-^d
-```
-cat > file2
-```
-anil aggarwal
-barun sengupta
-c.k. shukla
-lalit chowdury
-s.n. dasgupta
-^d
-```
-### Display the content of the files
-cat < file1
-## OUTPUT
-<img width="736" height="167" alt="image" src="https://github.com/user-attachments/assets/b840098b-4676-4960-a27e-dbdbdb20ce64" />
-
-
-
-cat < file2
-## OUTPUT
-<img width="667" height="167" alt="image" src="https://github.com/user-attachments/assets/5ef64d77-25a2-497a-b475-f8995d87d5a7" />
-
 
 # Comparing Files
 cmp file1 file2

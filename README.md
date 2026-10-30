@@ -25,15 +25,7 @@ Testing the commands for the desired output.
 ### Create the following files file1, file2 as follows:
 
 # Comparing Files
-cmp file1 file2
-## OUTPUT
-<img width="587" height="68" alt="image" src="https://github.com/user-attachments/assets/2c7b2154-18d8-44fc-9fd1-0dcb1c4ec386" />
- 
-comm file1 file2
- ## OUTPUT
-<img width="557" height="302" alt="image" src="https://github.com/user-attachments/assets/9e75f00f-a6b0-4a12-9dc5-eb92ca682f32" />
 
- 
 diff file1 file2
 ## OUTPUT
 <img width="637" height="343" alt="image" src="https://github.com/user-attachments/assets/9ac62575-2453-4f5d-a8ab-b36c856976dd" />
